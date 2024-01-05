@@ -1,0 +1,830 @@
+[
+    {
+        "id": "Chinese (Simplified)",
+        "locale": "zh_CN.UTF-8",
+        "title": "选择语言",
+        "lang": "中文(简体)",
+        "aosc": "AOSC OS",
+        "inst": "选择语言",
+        "next": "完成"
+    },
+    {
+        "id": "Chinese (Traditional)",
+        "locale": "zh_TW.UTF-8",
+        "title": "選擇言語",
+        "lang": "中文(繁體)",
+        "aosc": "AOSC OS",
+        "inst": "選擇言語",
+        "next": "完成"
+    },
+    {
+        "id": "English",
+        "locale": "en_US.UTF-8",
+        "title": "Select Language",
+        "lang": "English",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Albanian",
+        "locale": "sq_AL.UTF-8",
+        "title": "Select Language",
+        "lang": "Shqip",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Amharic",
+        "locale": "am_ET",
+        "title": "Select Language",
+        "lang": "አማርኛ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Arabic",
+        "locale": "ar_EG.UTF-8",
+        "title": "Select Language",
+        "lang": "عربي",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Assamese",
+        "locale": "as_IN",
+        "title": "Select Language",
+        "lang": "অসমীয়া",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Asturian",
+        "locale": "ast_ES.UTF-8",
+        "title": "Select Language",
+        "lang": "Asturianu",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Bangla",
+        "locale": "bn_BD",
+        "title": "Select Language",
+        "lang": "বাংলা",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Basque",
+        "locale": "eu_ES.UTF-8",
+        "title": "Select Language",
+        "lang": "Euskara",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Belarusian",
+        "locale": "be_BY.UTF-8",
+        "title": "Select Language",
+        "lang": "Беларуская",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Bosnian",
+        "locale": "bs_BA.UTF-8",
+        "title": "Select Language",
+        "lang": "Bosanski",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Breton",
+        "locale": "br_FR.UTF-8",
+        "title": "Select Language",
+        "lang": "Brezhoneg",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Bulgarian",
+        "locale": "bg_BG.UTF-8",
+        "title": "Select Language",
+        "lang": "Български",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Burmese",
+        "locale": "my_MM",
+        "title": "Select Language",
+        "lang": "မြန်မာစာ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "C.UTF-8",
+        "locale": "C.UTF-8",
+        "title": "Select Language",
+        "lang": "No localization (UTF-8)",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Catalan",
+        "locale": "ca_ES.UTF-8",
+        "title": "Select Language",
+        "lang": "Català",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Croatian",
+        "locale": "hr_HR.UTF-8",
+        "title": "Select Language",
+        "lang": "Hrvatski",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Czech",
+        "locale": "cs_CZ.UTF-8",
+        "title": "Select Language",
+        "lang": "Čeština",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Danish",
+        "locale": "da_DK.UTF-8",
+        "title": "Select Language",
+        "lang": "Dansk",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Dutch",
+        "locale": "nl_NL.UTF-8",
+        "title": "Select Language",
+        "lang": "Nederlands",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Dzongkha",
+        "locale": "dz_BT",
+        "title": "Select Language",
+        "lang": "རྫོང་ཁ།",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Esperanto",
+        "locale": "eo.UTF-8",
+        "title": "Select Language",
+        "lang": "Esperanto",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Estonian",
+        "locale": "et_EE.UTF-8",
+        "title": "Select Language",
+        "lang": "Eesti",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Finnish",
+        "locale": "fi_FI.UTF-8",
+        "title": "Select Language",
+        "lang": "Suomi",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "French",
+        "locale": "fr_FR.UTF-8",
+        "title": "Select Language",
+        "lang": "Français",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Galician",
+        "locale": "gl_ES.UTF-8",
+        "title": "Select Language",
+        "lang": "Galego",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Georgian",
+        "locale": "ka_GE.UTF-8",
+        "title": "Select Language",
+        "lang": "ქართული",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "German",
+        "locale": "de_DE.UTF-8",
+        "title": "Select Language",
+        "lang": "Deutsch",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Greek",
+        "locale": "el_GR.UTF-8",
+        "title": "Select Language",
+        "lang": "Ελληνικά",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Gujarati",
+        "locale": "gu_IN",
+        "title": "Select Language",
+        "lang": "ગુજરાતી",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Hebrew",
+        "locale": "he_IL.UTF-8",
+        "title": "Select Language",
+        "lang": "עברית",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Hindi",
+        "locale": "hi_IN",
+        "title": "Select Language",
+        "lang": "हिन्दी ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Hungarian",
+        "locale": "hu_HU.UTF-8",
+        "title": "Select Language",
+        "lang": "Magyar",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Icelandic",
+        "locale": "is_IS.UTF-8",
+        "title": "Select Language",
+        "lang": "Íslenska",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Indonesian",
+        "locale": "id_ID.UTF-8",
+        "title": "Select Language",
+        "lang": "Bahasa Indonesia",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Irish",
+        "locale": "ga_IE.UTF-8",
+        "title": "Select Language",
+        "lang": "Gaeilge",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Italian",
+        "locale": "it_IT.UTF-8",
+        "title": "Select Language",
+        "lang": "Italiano",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Jamaican Creole English",
+        "locale": "jam_JM",
+        "title": "Select Language",
+        "lang": "Jamaican Creole English",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Japanese",
+        "locale": "ja_JP.UTF-8",
+        "title": "Select Language",
+        "lang": "日本語",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Kabyle",
+        "locale": "kab_DZ.UTF-8",
+        "title": "Select Language",
+        "lang": "Taqbaylit",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Kannada",
+        "locale": "kn_IN",
+        "title": "Select Language",
+        "lang": "ಕನ್ನಡ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Kazakh",
+        "locale": "kk_KZ.UTF-8",
+        "title": "Select Language",
+        "lang": "Қазақ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Khmer",
+        "locale": "km_KH",
+        "title": "Select Language",
+        "lang": "ខ្មែរ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Korean",
+        "locale": "ko_KR.UTF-8",
+        "title": "Select Language",
+        "lang": "한국어",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Kurdish",
+        "locale": "ku_TR.UTF-8",
+        "title": "Select Language",
+        "lang": "Kurdî",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Kurdish, Central",
+        "locale": "ckb_IQ",
+        "title": "Select Language",
+        "lang": "کوردیی ناوەندی",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Lao",
+        "locale": "lo_LA",
+        "title": "Select Language",
+        "lang": "ລາວ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Latvian",
+        "locale": "lv_LV.UTF-8",
+        "title": "Select Language",
+        "lang": "Latviski",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Lithuanian",
+        "locale": "lt_LT.UTF-8",
+        "title": "Select Language",
+        "lang": "Lietuviškai",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Macedonian",
+        "locale": "mk_MK.UTF-8",
+        "title": "Select Language",
+        "lang": "Македонски",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Malagasy",
+        "locale": "mg_MG.UTF-8",
+        "title": "Select Language",
+        "lang": "Malagasy",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Malay",
+        "locale": "ms_MY.UTF-8",
+        "title": "Select Language",
+        "lang": "Bahasa Malaysia",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Malayalam",
+        "locale": "ml_IN",
+        "title": "Select Language",
+        "lang": "മലയാളം",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Marathi",
+        "locale": "mr_IN",
+        "title": "Select Language",
+        "lang": "मराठी",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Nepali",
+        "locale": "ne_NP",
+        "title": "Select Language",
+        "lang": "नेपाली ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Northern Sami",
+        "locale": "se_NO",
+        "title": "Select Language",
+        "lang": "Sámegillii",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Norwegian Bokmaal",
+        "locale": "nb_NO.UTF-8",
+        "title": "Select Language",
+        "lang": "Norsk bokmål",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Norwegian Nynorsk",
+        "locale": "nn_NO.UTF-8",
+        "title": "Select Language",
+        "lang": "Norsk nynorsk",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Occitan",
+        "locale": "oc_FR.UTF-8",
+        "title": "Select Language",
+        "lang": "Occitan",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Odia",
+        "locale": "or_IN",
+        "title": "Select Language",
+        "lang": "ଓଡ଼ିଆ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Ossetian",
+        "locale": "os_RU",
+        "title": "Select Language",
+        "lang": "Ирон æвзаг",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Persian",
+        "locale": "fa_IR",
+        "title": "Select Language",
+        "lang": "فارسی",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Polish",
+        "locale": "pl_PL.UTF-8",
+        "title": "Select Language",
+        "lang": "Polski",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Portuguese",
+        "locale": "pt_PT.UTF-8",
+        "title": "Select Language",
+        "lang": "Português",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Portuguese (Brazil)",
+        "locale": "pt_BR.UTF-8",
+        "title": "Select Language",
+        "lang": "Português do Brasil",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Punjabi (Gurmukhi)",
+        "locale": "pa_IN",
+        "title": "Select Language",
+        "lang": "ਪੰਜਾਬੀ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Romanian",
+        "locale": "ro_RO.UTF-8",
+        "title": "Select Language",
+        "lang": "Română",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Russian",
+        "locale": "ru_RU.UTF-8",
+        "title": "Select Language",
+        "lang": "Русский",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Sanskrit",
+        "locale": "sa_IN",
+        "title": "Select Language",
+        "lang": "संस्कृत",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Serbian (Cyrillic)",
+        "locale": "sr_RS",
+        "title": "Select Language",
+        "lang": "Српски",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Serbian (Latin)",
+        "locale": "sr_RS@latin",
+        "title": "Select Language",
+        "lang": "Srpski",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Silesian",
+        "locale": "szl_PL",
+        "title": "Select Language",
+        "lang": "Ślůnski",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Sinhala",
+        "locale": "si_LK",
+        "title": "Select Language",
+        "lang": "සිංහල",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Slovak",
+        "locale": "sk_SK.UTF-8",
+        "title": "Select Language",
+        "lang": "Slovenčina",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Slovenian",
+        "locale": "sl_SI.UTF-8",
+        "title": "Select Language",
+        "lang": "Slovenščina",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Spanish",
+        "locale": "es_ES.UTF-8",
+        "title": "Select Language",
+        "lang": "Español",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Swedish",
+        "locale": "sv_SE.UTF-8",
+        "title": "Select Language",
+        "lang": "Svenska",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Tagalog",
+        "locale": "tl_PH.UTF-8",
+        "title": "Select Language",
+        "lang": "Tagalog",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Tajik",
+        "locale": "tg_TJ.UTF-8",
+        "title": "Select Language",
+        "lang": "Тоҷикӣ",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Tamil",
+        "locale": "ta_IN",
+        "title": "Select Language",
+        "lang": "தமிழ்",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Telugu",
+        "locale": "te_IN",
+        "title": "Select Language",
+        "lang": "తెలుగు",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Thai",
+        "locale": "th_TH.UTF-8",
+        "title": "Select Language",
+        "lang": "ภาษาไทย",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Tibetan",
+        "locale": "bo_IN",
+        "title": "Select Language",
+        "lang": "བོད་ཡིག",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Turkish",
+        "locale": "tr_TR.UTF-8",
+        "title": "Select Language",
+        "lang": "Türkçe",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Ukrainian",
+        "locale": "uk_UA.UTF-8",
+        "title": "Select Language",
+        "lang": "Українська",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Urdu",
+        "locale": "ur_PK.UTF-8",
+        "title": "Select Language",
+        "lang": "اردو",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Uyghur",
+        "locale": "ug_CN",
+        "title": "Select Language",
+        "lang": "ئۇيغۇرچە",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Valencian-Catalan",
+        "locale": "ca_ES.UTF-8@valencia",
+        "title": "Select Language",
+        "lang": "Valencià-Català",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Vietnamese",
+        "locale": "vi_VN",
+        "title": "Select Language",
+        "lang": "Tiếng Việt",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Welsh",
+        "locale": "cy_GB.UTF-8",
+        "title": "Select Language",
+        "lang": "Cymraeg",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    },
+    {
+        "id": "Wolof",
+        "locale": "wo_SN",
+        "title": "Select Language",
+        "lang": "Wolof",
+        "aosc": "AOSC OS",
+        "inst": "Select Language",
+        "next": "Done"
+    }
+]

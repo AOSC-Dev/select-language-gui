@@ -1,0 +1,25 @@
+{
+  "name": "select-language",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.5.2",
+    "human-format": "^1.2.0",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.8.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@intlify/vite-plugin-vue-i18n": "^6.0.1",
+    "@tauri-apps/cli": "^1.5.8",
+    "@vitejs/plugin-vue": "^5.0.2",
+    "vite": "^5.0.0"
+  }
+}
