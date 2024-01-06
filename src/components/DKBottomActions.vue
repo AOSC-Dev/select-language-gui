@@ -8,7 +8,6 @@
 .bottom-bar {
   position: absolute;
   bottom: 0;
-  margin-bottom: 1rem;
   width: 100%;
 }
 </style>
