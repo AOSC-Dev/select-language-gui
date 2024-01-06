@@ -39,7 +39,7 @@ export default {
     </section>
     <DKBottomActions>
       <DKBottomRightButtons>
-        <button class="button" @click="select(selection)">
+        <button class="button" @click="select(selection)" style="padding: 1rem">
           {{ lang_data[selection]["next"] }}
         </button>
       </DKBottomRightButtons>
@@ -51,12 +51,12 @@ export default {
           <h1 style="font-size: 3rem; text-align: right; margin-bottom: 0">
             {{ lang_data[selection]["aosc"] }}
           </h1>
-          <h2 style="font-size: 1.25rem; text-align: right">
+          <h2 style="font-size: 1.75rem; text-align: right">
             {{ lang_data[selection]["inst"] }}
           </h2>
         </div>
         <div style="line-height: 1" v-else>
-          <h2 style="font-size: 1.25rem; text-align: right">
+          <h2 style="font-size: 1.75rem; text-align: right">
             {{ lang_data[selection]["inst"] }}
           </h2>
           <h1 style="font-size: 3rem; text-align: right">
