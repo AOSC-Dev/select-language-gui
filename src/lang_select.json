@@ -21,7 +21,7 @@
         "id": "English (United States)",
         "locale": "en_US.UTF-8",
         "title": "Welcome",
-        "lang": "English",
+        "lang": "English (United States)",
         "aosc": "AOSC OS",
         "inst": "Welcome",
         "next": "Done"
@@ -30,7 +30,7 @@
         "id": "English (United Kingdom)",
         "locale": "en_UK.UTF-8",
         "title": "Welcome",
-        "lang": "English",
+        "lang": "English (United Kingdom)",
         "aosc": "AOSC OS",
         "inst": "Welcome",
         "next": "Done"
