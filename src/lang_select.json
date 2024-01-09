@@ -135,15 +135,6 @@
         "next": "Done"
     },
     {
-        "id": "C.UTF-8",
-        "locale": "C.UTF-8",
-        "title": "Welcome",
-        "lang": "No localization (UTF-8)",
-        "aosc": "AOSC OS",
-        "inst": "Welcome",
-        "next": "Done"
-    },
-    {
         "id": "Catalan",
         "locale": "ca_ES.UTF-8",
         "title": "Welcome",
