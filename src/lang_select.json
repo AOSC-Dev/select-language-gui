@@ -18,17 +18,8 @@
         "next": "完成"
     },
     {
-        "id": "English (United States)",
+        "id": "English",
         "locale": "en_US.UTF-8",
-        "title": "Welcome",
-        "lang": "English",
-        "aosc": "AOSC OS",
-        "inst": "Welcome",
-        "next": "Done"
-    },
-    {
-        "id": "English (United Kingdom)",
-        "locale": "en_UK.UTF-8",
         "title": "Welcome",
         "lang": "English",
         "aosc": "AOSC OS",
