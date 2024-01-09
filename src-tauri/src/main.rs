@@ -3,7 +3,8 @@
 
 use std::{
     fs::File,
-    io::{self, Write}, process::exit,
+    io::{self, Write},
+    process::exit,
 };
 
 // Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
